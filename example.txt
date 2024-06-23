@@ -1,2 +1,2 @@
 Line 1: This is a project file.
-Line 2: We are working on this together.
+Line 2: We are working on this collaboratively.
